@@ -13,7 +13,7 @@ export default defineConfig({
       sidebar: [
         {
           label: "Hướng dẫn",
-					autogenerate: { directory: "reference" },
+					autogenerate: { directory: "guides" },
         },
       ],
     }),
