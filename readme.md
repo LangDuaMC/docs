@@ -1,1 +1,0 @@
-# LangDuaMC Documentation
